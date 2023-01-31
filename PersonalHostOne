@@ -11,3 +11,6 @@
 127.0.0.1 quox.io
 127.0.0.1 clubriches.com
 127.0.0.1 promotions.clubriches.com
+127.0.0.1 events-endpoint-g-1919267118.us-east-1.elb.amazonaws.com
+127.0.0.1 events-endpoint-i-1172912053.us-east-1.elb.amazonaws.com
+127.0.0.1 events-endpoint-j-660082941.us-east-1.elb.amazonaws.com
